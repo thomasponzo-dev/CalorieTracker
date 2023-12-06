@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">CaloryTracker</string>
+    <string name="app_name">CalTracker</string>
     <string name="error_unknown">Onbekende fout</string>
     <string name="welcome_text">Hallo! Laten we meer over je ontdekken :)</string>
     <string name="lets_go">Laten we gaan</string>
